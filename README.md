@@ -56,8 +56,8 @@ If you're looking to develop or enhance a Brilliant Directories project, I’d l
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/metaviz-tech/posts/?feedView=all)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=Twitter)](https://x.com/Metavizpro)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:info@metaviz.pro)
+[![Twitter](https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=Twitter)](https://x.com/MetavizPro)
 [![Instagram](https://img.shields.io/badge/Instagram-Contact%20Me-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/metavizpro/)
 
 ---
